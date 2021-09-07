@@ -4,4 +4,7 @@ learning git
 git
 is
 awesome
+<<<<<<< HEAD
 line to branch
+=======
+>>>>>>> 188fca57e5f10d6a8eec7a31d2847090c9598823
